@@ -1,6 +1,6 @@
 ## Welcome to Jinhao Li's Homepage
 
-To be updated.
+To be updated
 
 ### Markdown
 
