@@ -1,2 +1,2 @@
-# stephlee175.github.io
+# StephLee12.github.io
 Jinhao Li's Homepage
