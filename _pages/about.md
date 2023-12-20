@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓 I am a first-year PhD student at Department of Data Science and AI, Faculty of Information and Technology, Monash University, supervised by [Dr. Hao Wang](https://research.monash.edu/en/persons/hao-wang). I received my Bachelors' degree of Smart Grid Information Engineering with a double degree in Mathematics from University of Electronic Science and Technology of China (UESTC), Chengdu, China, supervised by [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
+🧑‍🎓 I am a first-year PhD student at Department of Data Science and AI, Faculty of Information and Technology, Monash University, supervised by [Dr. Hao Wang](https://research.monash.edu/en/persons/hao-wang). I received my Bachelors' degree of Smart Grid Information Engineering with a double degree in Mathematics from University of Electronic Science and Technology of China (UESTC), Chengdu, China, supervised by [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en).
 
 🧐 My research interests are machine learning and deep learning applications in power system analysis. I am currenly focusing on:
 
 - Energy storage bidding in the real-time electricity market
+  - Battery energy storage system (BESS) real-time bidding in the Australian National Electricity Market -- [NeurlIPS 2022 TCCML Workshop]() [IEEE TSG]()
+  - Co-located renewable-BESS bidding -- [Wind-BESS Bidding published in EGYAI]() [Solar-BESS Bidding]()
 
 
 A data-driven personal website
