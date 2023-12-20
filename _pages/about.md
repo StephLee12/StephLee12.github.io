@@ -16,7 +16,10 @@ redirect_from:
   - Battery energy storage system (BESS) joint bidding in spot and contingency FCAS markets in the context of Australian National Electricity Market -- [NeurlIPS 2022 TCCML Workshop](https://www.climatechange.ai/papers/neurips2022/62);
   - Co-located renewable-BESS bidding
     - Wind-BESS bidding in the spot market -- [IEEE PESGM 2023](https://ieeexplore.ieee.org/document/10253181)
-   [Wind-BESS Bidding published in EGYAI]() [Solar-BESS Bidding]()
+    - Wind-BESS joint-bidding in the spot and regulation FCAS markets -- [EGYAI](https://www.sciencedirect.com/science/article/pii/S2666546823000526)
+    - Solar-BESS bidding 
+- Electric Vehicle Charging Infrastructure Planning
+  - Multi-Objective Planning Framework -- [IEEE I&CPS Asia 2023](https://ieeexplore.ieee.org/abstract/document/10294653)
 
 
 A data-driven personal website
