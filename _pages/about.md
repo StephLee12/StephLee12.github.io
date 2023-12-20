@@ -33,19 +33,19 @@ News
 
 - **[03/2023]** One paper about solar-BESS bidding via multi-agent DRL is accepted by ICLR Workshop TCCML 2023! [Paper Link](https://www.climatechange.ai/papers/iclr2023/62)
 
-- **[12/2023]** One paper about fair solar curtailment is accepted by ACM e-Energy 2023! [Paper Link](https://dl.acm.org/doi/abs/10.1145/3575813.3576871)
+- **[02/2023]** One paper about wind-BESS bidding is accepted by IEEE PESGM 2023! [Paper Link](https://ieeexplore.ieee.org/document/10253181)
 
-- **[10/2022]** One paper about BESS joint-bidding is accepted by NeurIPS Workshop TCCML 2022! [Paper Link](https://www.climatechange.ai/papers/neurips2022/62)
+- **[12/2022]** One paper about fair solar curtailment is accepted by ACM e-Energy 2023! [Paper Link](https://dl.acm.org/doi/abs/10.1145/3575813.3576871)
+
+- **[10/2022]** One paper about BESS joint-bidding is accepted by NeurIPS Workshop TCCML 2022 as Poster! [Paper Link](https://www.climatechange.ai/papers/neurips2022/62); [Presentation Link](https://slideslive.com/38993986/learn-to-bid-deep-reinforcement-learning-with-transformer-for-energy-storage-bidding-in-energy-and-contingency-reserve-markets)
 
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Ph.D in Information Technology, Monash University, 2023 - Now.
+
+- 
+
 
 Site-wide configuration
 ------
