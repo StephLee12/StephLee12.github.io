@@ -31,7 +31,7 @@ News
 
 - **[05/2023]** One paper about electric vehicle charging infrastructure planning is accepted by IEEE I&CPS Asia 2023! [Paper Link](https://ieeexplore.ieee.org/abstract/document/10294653)
 
--- **[03/2023]** One paper about solar-BESS bidding via multi-agent DRL is accepted by ICLR Workshop TCCML 2023! [Paper Link](https://www.climatechange.ai/papers/iclr2023/62)
+- **[03/2023]** One paper about solar-BESS bidding via multi-agent DRL is accepted by ICLR Workshop TCCML 2023! [Paper Link](https://www.climatechange.ai/papers/iclr2023/62)
 
 - **[12/2023]** One paper about fair solar curtailment is accepted by ACM e-Energy 2023! [Paper Link](https://dl.acm.org/doi/abs/10.1145/3575813.3576871)
 
