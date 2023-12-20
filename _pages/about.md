@@ -13,7 +13,7 @@ redirect_from:
 🧐 My research interests are machine learning and deep learning applications in power system analysis. I am currenly focusing on:
 
 - Energy Storage Bidding
-  - Battery energy storage system (BESS) joint bidding in spot and contingency FCAS markets in the context of Australian National Electricity Market -- [NeurIPS 2022 TCCML Workshop](https://www.climatechange.ai/papers/neurips2022/62);
+  - Battery energy storage system (BESS) joint bidding in spot and contingency FCAS markets in the context of Australian National Electricity Market -- [NeurIPS Workshop TCCML 2022](https://www.climatechange.ai/papers/neurips2022/62);
   - Co-located renewable-BESS bidding
     - Wind-BESS bidding in the spot market -- [IEEE PESGM 2023](https://ieeexplore.ieee.org/document/10253181)
     - Wind-BESS joint-bidding in the spot and regulation FCAS markets -- [EGYAI](https://www.sciencedirect.com/science/article/pii/S2666546823000526)
@@ -25,13 +25,17 @@ redirect_from:
 News
 ======
 
-- **[06/2023]** One paper about wind-BESS joint-bidding is accepted by Energy and AI! [Paper Link](https://www.sciencedirect.com/science/article/pii/S2666546823000526)
+- **[06/2023]** One paper about wind-BESS joint-bidding via decoupled DRL is accepted by Energy and AI! [Paper Link](https://www.sciencedirect.com/science/article/pii/S2666546823000526)
 
 - **[05/2023]** One paper about optimal power flow with reinforcement learning is accepted by IEEE Transactions of Sustainable Energy! [Paper Link](https://ieeexplore.ieee.org/document/10143277)
 
 - **[05/2023]** One paper about electric vehicle charging infrastructure planning is accepted by IEEE I&CPS Asia 2023! [Paper Link](https://ieeexplore.ieee.org/abstract/document/10294653)
 
-- **[10/2022]** 
+-- **[03/2023]** One paper about solar-BESS bidding via multi-agent DRL is accepted by ICLR Workshop TCCML 2023! [Paper Link](https://www.climatechange.ai/papers/iclr2023/62)
+
+- **[12/2023]** One paper about fair solar curtailment is accepted by ACM e-Energy 2023! [Paper Link](https://dl.acm.org/doi/abs/10.1145/3575813.3576871)
+
+- **[10/2022]** One paper about BESS joint-bidding is accepted by NeurIPS Workshop TCCML 2022! [Paper Link](https://www.climatechange.ai/papers/neurips2022/62)
 
 
 Getting started
