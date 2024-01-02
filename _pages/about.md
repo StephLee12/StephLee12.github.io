@@ -17,13 +17,15 @@ redirect_from:
   - Co-located renewable-BESS bidding
     - Wind-BESS bidding in the spot market -- [IEEE PESGM 2023](https://ieeexplore.ieee.org/document/10253181)
     - Wind-BESS joint-bidding in the spot and regulation FCAS markets -- [EGYAI](https://www.sciencedirect.com/science/article/pii/S2666546823000526)
-    - Solar-BESS bidding 
+    - Solar-BESS bidding -- [IEEE TII]()
 - Electric Vehicle Charging Infrastructure Planning
   - Multi-Objective Planning Framework -- [IEEE I&CPS Asia 2023](https://ieeexplore.ieee.org/abstract/document/10294653)
 
 
 News
 ======
+
+- **[12/2023]** One paper about solar-BESS bidding with attentive convolutional DRL is accepeted by IEEE Transactions of Industrial Informatics! [Paper Link TBD]()
 
 - **[12/2023]** I gave a talk about co-located renewable-BESS bidding at AI-OPT 23 in Melbourne, Australia.
 
