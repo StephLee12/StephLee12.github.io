@@ -10,14 +10,14 @@ redirect_from:
 
 🧑‍🎓 I am a first-year PhD student at Department of Data Science and AI, Faculty of Information and Technology, Monash University, supervised by [Dr. Hao Wang](https://research.monash.edu/en/persons/hao-wang). I received my Bachelor's degree of Smart Grid Information Engineering with a double degree in Mathematics from University of Electronic Science and Technology of China (UESTC), Chengdu, China, supervised by [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en).
 
-🧐 My research interests are machine learning and deep learning applications in power system analysis. I am currenly focusing on:
+🧐 My research interests are machine learning and deep learning applications in power system analysis. I am currently focusing on:
 
 - Energy Storage Bidding
   - Battery energy storage system (BESS) joint bidding in spot and contingency FCAS markets in the context of Australian National Electricity Market -- [NeurIPS Workshop TCCML 2022](https://www.climatechange.ai/papers/neurips2022/62);
   - Co-located renewable-BESS bidding
     - Wind-BESS bidding in the spot market -- [IEEE PESGM 2023](https://ieeexplore.ieee.org/document/10253181)
     - Wind-BESS joint-bidding in the spot and regulation FCAS markets -- [EGYAI](https://www.sciencedirect.com/science/article/pii/S2666546823000526)
-    - Solar-BESS bidding -- [IEEE TII]()
+    - Solar-BESS bidding -- [IEEE TII](https://ieeexplore.ieee.org/abstract/document/10419053)
 - Electric Vehicle Charging Infrastructure Planning
   - Multi-Objective Planning Framework -- [IEEE I&CPS Asia 2023](https://ieeexplore.ieee.org/abstract/document/10294653)
 
@@ -25,7 +25,7 @@ redirect_from:
 News
 ======
 
-- **[12/2023]** One paper about solar-BESS bidding with attentive convolutional DRL is accepeted by IEEE Transactions of Industrial Informatics! [Paper Link TBD]()
+- **[12/2023]** One paper about solar-BESS bidding with attentive convolutional DRL is accepted by IEEE Transactions of Industrial Informatics! [Paper Link](https://ieeexplore.ieee.org/abstract/document/10419053)
 
 - **[12/2023]** I gave a talk about co-located renewable-BESS bidding at AI-OPT 23 in Melbourne, Australia.
 
