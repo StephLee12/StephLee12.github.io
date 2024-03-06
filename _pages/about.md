@@ -13,7 +13,7 @@ redirect_from:
 🧐 My research interests are machine learning and deep learning applications in power system analysis. I am currently focusing on:
 
 - Energy Storage Bidding
-  - Battery energy storage system (BESS) joint bidding in spot and contingency FCAS markets in the context of Australian National Electricity Market -- [NeurIPS Workshop TCCML 2022](https://www.climatechange.ai/papers/neurips2022/62); [IEEE TEMPR]()
+  - Battery energy storage system (BESS) joint bidding in spot and contingency FCAS markets in the context of Australian National Electricity Market -- [NeurIPS Workshop TCCML 2022](https://www.climatechange.ai/papers/neurips2022/62); [IEEE TEMPR](https://arxiv.org/abs/2402.19110)
   - Co-located renewable-BESS bidding
     - Wind-BESS bidding in the spot market -- [IEEE PESGM 2023](https://ieeexplore.ieee.org/document/10253181)
     - Wind-BESS joint-bidding in the spot and regulation FCAS markets -- [EGYAI](https://www.sciencedirect.com/science/article/pii/S2666546823000526)
@@ -25,7 +25,7 @@ redirect_from:
 News
 ======
 
-- **[02/2024]** One Paper about BESS joint-market bidding is accepted by IEEE Transactions on Energy Markets, Policy and Regulation! [Paper Link]()
+- **[02/2024]** One Paper about BESS joint-market bidding is accepted by IEEE Transactions on Energy Markets, Policy and Regulation! [Paper Link](https://arxiv.org/abs/2402.19110)
 
 - **[12/2023]** One paper about solar-BESS bidding with attentive convolutional DRL is accepted by IEEE Transactions on Industrial Informatics! [Paper Link](https://ieeexplore.ieee.org/abstract/document/10419053)
 
