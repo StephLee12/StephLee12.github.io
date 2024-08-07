@@ -20,12 +20,14 @@ redirect_from:
     - Solar-BESS bidding -- [IEEE TII](https://ieeexplore.ieee.org/abstract/document/10419053)
 - Electric Vehicle Charging Infrastructure Planning
   - Multi-Objective Planning Framework -- [IEEE I&CPS Asia 2023](https://ieeexplore.ieee.org/abstract/document/10294653)
-
+  - Review on EVCI Planning -- [Progress in Energy](https://iopscience.iop.org/article/10.1088/2516-1083/ad6be1)
 
 News
 ======
 
-- **[02/2024]** One Paper about BESS joint-market bidding is accepted by IEEE Transactions on Energy Markets, Policy and Regulation! [Paper Link](https://arxiv.org/abs/2402.19110)
+-- **[08/2024]** One review paper about electric vehicle charging infrastructure planning is accepted by Progress in Energy! [Paper Link](https://iopscience.iop.org/article/10.1088/2516-1083/ad6be1)
+
+- **[02/2024]** One paper about BESS joint-market bidding is accepted by IEEE Transactions on Energy Markets, Policy and Regulation! [Paper Link](https://arxiv.org/abs/2402.19110)
 
 - **[12/2023]** One paper about solar-BESS bidding with attentive convolutional DRL is accepted by IEEE Transactions on Industrial Informatics! [Paper Link](https://ieeexplore.ieee.org/abstract/document/10419053)
 
