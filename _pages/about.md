@@ -25,7 +25,7 @@ redirect_from:
 News
 ======
 
--- **[08/2024]** One review paper about electric vehicle charging infrastructure planning is accepted by Progress in Energy! [Paper Link](https://iopscience.iop.org/article/10.1088/2516-1083/ad6be1)
+- **[08/2024]** One review paper about electric vehicle charging infrastructure planning is accepted by Progress in Energy! [Paper Link](https://iopscience.iop.org/article/10.1088/2516-1083/ad6be1)
 
 - **[02/2024]** One paper about BESS joint-market bidding is accepted by IEEE Transactions on Energy Markets, Policy and Regulation! [Paper Link](https://arxiv.org/abs/2402.19110)
 
