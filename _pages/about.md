@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓 I am a first-year PhD student at the Department of Data Science and AI, Faculty of Information and Technology, Monash University, Melbourne, VIC, Australia, supervised by [Dr. Hao Wang](https://research.monash.edu/en/persons/hao-wang). I received my Bachelor's degree in Smart Grid Information Engineering with a double degree in Mathematics from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, supervised by [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en).
+🧑‍🎓 I am a second-year PhD student at the Department of Data Science and AI, Faculty of Information and Technology, Monash University, Melbourne, VIC, Australia, supervised by [Dr. Hao Wang](https://research.monash.edu/en/persons/hao-wang). I received my Bachelor's degree in Smart Grid Information Engineering with a double degree in Mathematics from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, supervised by [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en).
 
 🧐 My research interests are machine learning and deep learning applications in power system analysis. I am currently focusing on:
 
