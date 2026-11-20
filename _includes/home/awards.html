@@ -6,7 +6,7 @@
 <h2>Awards &amp; Scholarships</h2>
 <ul class="cv-list">
 {%- for a in site.data.awards %}{% unless a.todo and jekyll.environment == "production" %}
-<li{% if a.todo %} class="is-todo"{% endif %}><span class="cv-date">{{ a.date }}</span><span class="cv-text"><strong>{{ a.title }}</strong>{% if a.org %}, {{ a.org }}{% endif %}</span></li>
+<li{% if a.todo %} class="is-todo"{% endif %}><span class="cv-date">{{ a.date }}</span><span class="cv-text"><strong>{% if a.url %}<a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>{% else %}{{ a.title }}{% endif %}</strong>{% if a.org %}, {{ a.org }}{% endif %}{% if a.note %}<br><span class="cv-note">{{ a.note }}</span>{% endif %}</span></li>
 {%- endunless %}{% endfor %}
 </ul>
 </div>

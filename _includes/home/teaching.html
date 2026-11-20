@@ -6,7 +6,7 @@
 <h2>Teaching</h2>
 <ul class="cv-list">
 {%- for t in site.data.teaching %}{% unless t.todo and jekyll.environment == "production" %}
-<li{% if t.todo %} class="is-todo"{% endif %}><span class="cv-date">{{ t.date }}</span><span class="cv-text"><strong>{{ t.role }}</strong>, {{ t.course }}{% if t.org %}, {{ t.org }}{% endif %}</span></li>
+<li{% if t.todo %} class="is-todo"{% endif %}><span class="cv-date">{{ t.date }}</span><span class="cv-text"><strong>{{ t.code }}</strong> {{ t.title }}{% if t.role %} ({{ t.role }}){% endif %}{% if t.org %}, {{ t.org }}{% endif %}{% if t.semesters %}<br><span class="cv-note">{{ t.semesters }}</span>{% endif %}</span></li>
 {%- endunless %}{% endfor %}
 </ul>
 </div>

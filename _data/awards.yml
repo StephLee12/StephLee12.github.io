@@ -1,24 +1,26 @@
 # Awards & scholarships, newest first.
-# Entries with `todo: true` are placeholders: they show (highlighted) in a
-# local preview but are HIDDEN on the live site. Replace the text and delete
-# the `todo: true` line to publish an entry.
+# Optional: `url` links the award title; `note` adds a short remark.
+# Entries with `todo: true` are placeholders: shown (highlighted) in a local
+# preview but HIDDEN on the live site.
 
-- date: "20XX"
-  title: "TODO: PhD scholarship (e.g. Monash Graduate Scholarship / Faculty of IT scholarship)"
-  todo: true
+- date: "2026"
+  title: "Dean's Award for Research Excellence by a Graduate Research Student"
+  url: https://www.monash.edu/it/news/2023/deans-awards-for-excellence-in-research
+  org: "Faculty of Information Technology, Monash University"
+  note: "Sole recipient in the Department of Data Science and AI"
 
-- date: "20XX"
-  title: "TODO: Travel grant, best paper / poster award, competition result, etc."
-  todo: true
+- date: ""   # add the year(s), e.g. "2023 – 2026"
+  title: "Monash Data Futures Institute PhD Scholarship"
+  org: "Monash University"
 
-- date: "2018–2021"
+- date: "2018 – 2021"
   title: "First-Class Scholarship"
   org: "University of Electronic Science and Technology of China"
 
-- date: "2019–2020"
+- date: "2019 – 2020"
   title: "Enterprise Scholarship of Sekorm"
   org: "University of Electronic Science and Technology of China"
 
-- date: "2018–2019"
+- date: "2018 – 2019"
   title: "China National Scholarship"
   org: "Ministry of Education of China"

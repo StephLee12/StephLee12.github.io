@@ -1,16 +1,8 @@
-# Professional service.
-# Each entry is one line: a category plus a comma-separated list.
-# Entries with `todo: true` are placeholders: shown (highlighted) in a local
-# preview, HIDDEN on the live site.
-
-- category: "Journal Reviewer"
-  items: "TODO: e.g. IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, Applied Energy"
-  todo: true
+# Professional service. Each entry is one line: a category plus a list.
+# Entries with `todo: true` are placeholders (hidden on the live site).
 
 - category: "Conference Reviewer"
-  items: "TODO: e.g. NeurIPS, ICLR, IEEE PESGM"
-  todo: true
+  items: "NeurIPS (2024, 2025, 2026), ICML (2025, 2026), ICLR (2025, 2027), ACM e-Energy (2026, 2027)"
 
-- category: "Other"
-  items: "TODO: e.g. student volunteer, session chair, seminar organiser"
-  todo: true
+- category: "Journal Reviewer"
+  items: "IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, IEEE Transactions on Industrial Informatics, IEEE Transactions on Power Systems, IEEE Transactions on Transportation Electrification, Applied Energy"

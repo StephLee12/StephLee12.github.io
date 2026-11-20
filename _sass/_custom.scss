@@ -177,3 +177,6 @@ li.is-todo {
   .news-date,
   .cv-date { flex: none; }
 }
+
+/* Award titles that are links keep the bold text colour */
+.cv-text strong a { color: inherit; text-decoration: underline; text-decoration-color: $light-gray; }
