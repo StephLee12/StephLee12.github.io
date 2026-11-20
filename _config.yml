@@ -11,11 +11,9 @@ title                    : "Jinhao's Homepage"
 title_separator          : "-"
 name                     : &name "Jinhao Li"
 description              : &description "Final-year PhD candidate at Monash University working on machine learning for power and energy systems."
-# url is left unset so GitHub Pages fills it in from the repository name
-# (keeps links working if the GitHub username / repo is renamed).
-# url                    : https://StephLee12.github.io
+url                      : https://StephLee12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-# repository             : "StephLee12/StephLee12.github.io"  # auto-detected on GitHub Pages
+repository               : "StephLee12/StephLee12.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-🧑‍🎓 I am a final-year PhD candidate in the Department of Data Science and AI, Faculty of Information Technology, [Monash University](https://www.monash.edu/), Melbourne, Australia, supervised by [Dr. Hao Wang](https://research.monash.edu/en/persons/hao-wang). Before Monash, I received my B.Eng. in Smart Grid Information Engineering and B.Sc. in Mathematics (double degree) from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, supervised by [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en).
+🧑‍🎓 I am a final-year PhD candidate in the Department of Data Science and AI, Faculty of Information Technology, [Monash University](https://www.monash.edu/), Melbourne, Australia, supervised by [Dr. Hao Wang](https://research.monash.edu/en/persons/hao-wang). Before Monash, I received my B.Eng. in Smart Grid Information Engineering and B.Sc. in Mathematics from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, supervised by [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en).
 
 🧐 My research lies at the intersection of **machine learning** and **power & energy systems**. I currently focus on:
 
