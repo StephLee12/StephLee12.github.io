@@ -1,3 +1,31 @@
+# Jinhao Li — personal website
+
+Live at https://stephlee12.github.io/ (Jekyll / AcademicPages, built by GitHub Pages).
+
+## Updating content
+
+Most content lives in YAML files under `_data/`; the homepage (`_pages/about.md`) and the
+Publications page (`_pages/publications.html`) are generated from them.
+
+| What | File |
+|---|---|
+| Bio & research interests | `_pages/about.md` |
+| News | `_data/news.yml` |
+| Publications (homepage shows `selected: true`) | `_data/publications.yml` |
+| Awards & scholarships | `_data/awards.yml` |
+| Teaching | `_data/teaching.yml` |
+| Service | `_data/service.yml` |
+| Education | `_data/education.yml` |
+| Top menu | `_data/navigation.yml` |
+| Sidebar (bio line, links) | `author:` block in `_config.yml` |
+| Styles for the sections above | `_sass/_custom.scss` |
+
+Entries marked `todo: true` are placeholders: they appear (highlighted) in a local preview
+but are hidden on the live site. A Teaching/Service section and its menu link only appear on
+the live site once it has at least one real entry.
+
+---
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.

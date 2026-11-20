@@ -1,0 +1,59 @@
+# News, newest first. `text` supports Markdown links.
+# Months marked "verify" were estimated from publication records — please check.
+
+- date: "10/2026"   # verify
+  text: "One paper on interpretable spatiotemporal Kolmogorov–Arnold networks for urban-scale EV charging forecasting is accepted by the **NeurIPS 2026 Workshop on XAI4Science**!"
+
+- date: "09/2026"   # verify
+  text: "One paper on bi-level multi-objective EV charging infrastructure planning for private developers is accepted by **IEEE Transactions on Transportation Electrification**! [Paper](https://doi.org/10.1109/TTE.2026.3750587)"
+
+- date: "07/2026"   # verify
+  text: "One paper on interpretable Kolmogorov–Arnold networks with feature-isolated temporal attention for load forecasting is accepted by **Applied Energy**! [Paper](https://doi.org/10.1016/j.apenergy.2026.128296)"
+
+- date: "01/2026"   # verify
+  text: "One paper on EV charging data imputation with a retrieval-augmented language model is accepted by **IEEE Transactions on Smart Grid**! [Paper](https://doi.org/10.1109/TSG.2026.3656697)"
+
+- date: "11/2025"   # verify
+  text: "One paper on hypergraph-empowered spatiotemporal EV charging forecasting is accepted by **IEEE Transactions on Smart Grid**! [Paper](https://doi.org/10.1109/TSG.2025.3633777)"
+
+- date: "09/2025"
+  text: "One paper on feature unlearning is accepted by **NeurIPS 2025**! [Paper](https://doi.org/10.52202/085713-0397)"
+
+- date: "07/2025"
+  text: "Our paper on model predictive control for price-maker BESS bidding is presented at **IEEE PESGM 2025**. [Paper](https://doi.org/10.1109/PESGM52009.2025.11225298)"
+
+- date: "08/2024"
+  text: "One review paper on EV charging infrastructure planning is accepted by **Progress in Energy**! [Paper](https://doi.org/10.1088/2516-1083/ad6be1)"
+
+- date: "02/2024"
+  text: "One paper on BESS joint-market bidding is accepted by **IEEE Transactions on Energy Markets, Policy and Regulation**! [Paper](https://arxiv.org/abs/2402.19110)"
+
+- date: "12/2023"
+  text: "One paper on solar-BESS bidding with attentive convolutional DRL is accepted by **IEEE Transactions on Industrial Informatics**! [Paper](https://ieeexplore.ieee.org/document/10419053)"
+
+- date: "12/2023"
+  text: "I gave a talk on co-located renewable-BESS bidding at **AI-OPT 2023** in Melbourne, Australia."
+
+- date: "07/2023"
+  text: "I gave a presentation at **IEEE I&CPS Asia 2023** in Chongqing, China."
+
+- date: "06/2023"
+  text: "One paper on wind-BESS joint bidding via decoupled DRL is accepted by **Energy and AI**! [Paper](https://www.sciencedirect.com/science/article/pii/S2666546823000526)"
+
+- date: "05/2023"
+  text: "One paper on voltage control with graph-based reinforcement learning is accepted by **IEEE Transactions on Sustainable Energy**! [Paper](https://ieeexplore.ieee.org/document/10143277)"
+
+- date: "05/2023"
+  text: "One paper on EV charging infrastructure planning is accepted by **IEEE I&CPS Asia 2023**! [Paper](https://doi.org/10.1109/ICPSAsia58343.2023.10294653)"
+
+- date: "03/2023"
+  text: "One paper on solar-BESS bidding via multi-agent DRL is accepted by the **ICLR 2023 Workshop on Tackling Climate Change with ML**! [Paper](https://www.climatechange.ai/papers/iclr2023/62)"
+
+- date: "02/2023"
+  text: "One paper on wind-BESS bidding is accepted by **IEEE PESGM 2023**! [Paper](https://ieeexplore.ieee.org/document/10253181)"
+
+- date: "12/2022"
+  text: "One paper on fair solar curtailment is accepted by **ACM e-Energy 2023**! [Paper](https://dl.acm.org/doi/10.1145/3575813.3576871)"
+
+- date: "10/2022"
+  text: "One paper on BESS joint bidding is accepted by the **NeurIPS 2022 Workshop on Tackling Climate Change with ML** as a poster! [Paper](https://www.climatechange.ai/papers/neurips2022/62) · [Talk](https://slideslive.com/38993986/learn-to-bid-deep-reinforcement-learning-with-transformer-for-energy-storage-bidding-in-energy-and-contingency-reserve-markets)"

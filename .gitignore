@@ -1,2 +1,4 @@
 _site/
 
+Claude outputs/
+.DS_Store

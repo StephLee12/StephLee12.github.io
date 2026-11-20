@@ -1,0 +1,16 @@
+# Professional service.
+# Each entry is one line: a category plus a comma-separated list.
+# Entries with `todo: true` are placeholders: shown (highlighted) in a local
+# preview, HIDDEN on the live site.
+
+- category: "Journal Reviewer"
+  items: "TODO: e.g. IEEE Transactions on Smart Grid, IEEE Transactions on Sustainable Energy, Applied Energy"
+  todo: true
+
+- category: "Conference Reviewer"
+  items: "TODO: e.g. NeurIPS, ICLR, IEEE PESGM"
+  todo: true
+
+- category: "Other"
+  items: "TODO: e.g. student volunteer, session chair, seminar organiser"
+  todo: true

@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+{% include base_path %}
+{%- comment -%} Generated from _data/publications.yml {%- endcomment -%}
+<p class="section-note">Also on <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>. <span class="pub-legend"><span class="pub-badge pub-badge--journal">Journal</span> <span class="pub-badge pub-badge--conference">Conference</span> <span class="pub-badge pub-badge--workshop">Workshop</span></span></p>
+<div class="publications-full">
+{%- assign current_year = "" -%}
+{%- for pub in site.data.publications -%}
+{%- assign y = pub.year | append: "" -%}
+{%- if y != current_year -%}
+{%- unless forloop.first %}
+</ol>
+{%- endunless %}
+<h2 class="pub-year">{{ y }}</h2>
+<ol class="pub-list">
+{%- assign current_year = y -%}
+{%- endif %}
+{% include pub-item.html pub=pub %}
+{%- if forloop.last %}
+</ol>
+{%- endif -%}
+{%- endfor %}
+</div>

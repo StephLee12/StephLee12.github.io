@@ -1,0 +1,24 @@
+# Awards & scholarships, newest first.
+# Entries with `todo: true` are placeholders: they show (highlighted) in a
+# local preview but are HIDDEN on the live site. Replace the text and delete
+# the `todo: true` line to publish an entry.
+
+- date: "20XX"
+  title: "TODO: PhD scholarship (e.g. Monash Graduate Scholarship / Faculty of IT scholarship)"
+  todo: true
+
+- date: "20XX"
+  title: "TODO: Travel grant, best paper / poster award, competition result, etc."
+  todo: true
+
+- date: "2018–2021"
+  title: "First-Class Scholarship"
+  org: "University of Electronic Science and Technology of China"
+
+- date: "2019–2020"
+  title: "Enterprise Scholarship of Sekorm"
+  org: "University of Electronic Science and Technology of China"
+
+- date: "2018–2019"
+  title: "China National Scholarship"
+  org: "Ministry of Education of China"

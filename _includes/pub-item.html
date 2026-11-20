@@ -1,0 +1,13 @@
+{%- comment -%} One publication entry. Usage: {% include pub-item.html pub=pub %} {%- endcomment -%}
+{%- assign pub = include.pub -%}
+<li class="pub-item">
+<div class="pub-badge pub-badge--{{ pub.type }}">{{ pub.venue_short | escape }}</div>
+<div class="pub-body">
+<div class="pub-title">{{ pub.title | escape }}</div>
+<div class="pub-authors">{{ pub.authors | replace: "Jinhao Li", "<strong>Jinhao Li</strong>" }}</div>
+<div class="pub-venue"><em>{{ pub.venue | escape }}</em>{% if pub.details %}, {{ pub.details }}{% endif %}, {{ pub.year }}.{% if pub.note %} <span class="pub-note">{{ pub.note }}</span>{% endif %}</div>
+{%- if pub.links.size > 0 %}
+<div class="pub-links">{% for l in pub.links %}<a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.name }}</a>{% endfor %}</div>
+{%- endif %}
+</div>
+</li>

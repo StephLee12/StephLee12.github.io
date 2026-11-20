@@ -1,0 +1,212 @@
+# Publications (synced from Google Scholar, Nov 2026).
+# Newest first. The homepage shows entries with `selected: true`;
+# /publications/ shows everything, grouped by year.
+#
+# Fields
+#   type:        journal | conference | workshop   (sets the badge colour)
+#   venue_short: text on the badge
+#   details:     volume / issue / pages (optional)
+#   links:       list of {name, url}; shown as small buttons
+#   note:        optional highlight, e.g. "Oral", "Best Paper Award"
+# "Jinhao Li" is bolded automatically.
+
+- title: "Interpretable Spatiotemporal Kolmogorov–Arnold Network for Urban-Scale Electric Vehicle Charging Forecasting"
+  authors: "Jinhao Li, Hao Wang"
+  venue: "NeurIPS 2026 Workshop on XAI4Science"
+  venue_short: "NeurIPS 2026 Workshop"
+  type: workshop
+  year: 2026
+  selected: false
+  links: []   # TODO: add OpenReview / arXiv link
+
+- title: "Interpretable Kolmogorov–Arnold Network with Feature-Isolated Temporal Attention Mechanism for Electricity Load Forecasting"
+  authors: "Jinhao Li, Hao Wang"
+  venue: "Applied Energy"
+  venue_short: "Applied Energy"
+  details: "vol. 422, 128296"
+  type: journal
+  year: 2026
+  selected: true
+  links:
+    - name: Paper
+      url: https://doi.org/10.1016/j.apenergy.2026.128296
+
+- title: "Bi-Level Multi-Objective Electric Vehicle Charging Infrastructure Planning for Private Developers Considering EV Charging Choices"
+  authors: "Jinhao Li, Hao Wang, Hai L. Vu, Sarah Goodwin, Mark Wallace"
+  venue: "IEEE Transactions on Transportation Electrification"
+  venue_short: "IEEE TTE"
+  details: "early access"
+  type: journal
+  year: 2026
+  selected: true
+  links:
+    - name: Paper
+      url: https://doi.org/10.1109/TTE.2026.3750587
+
+- title: "A Unified Variational Imputation Framework for Electric Vehicle Charging Data Using Retrieval-Augmented Language Model"
+  authors: "Jinhao Li, Hao Wang"
+  venue: "IEEE Transactions on Smart Grid"
+  venue_short: "IEEE TSG"
+  details: "vol. 17, no. 4, pp. 3531–3545"
+  type: journal
+  year: 2026
+  selected: true
+  links:
+    - name: Paper
+      url: https://doi.org/10.1109/TSG.2026.3656697
+
+- title: "A Multi-View Multi-Timescale Hypergraph-Empowered Spatiotemporal Framework for EV Charging Forecasting"
+  authors: "Jinhao Li, Hao Wang"
+  venue: "IEEE Transactions on Smart Grid"
+  venue_short: "IEEE TSG"
+  details: "vol. 17, no. 2, pp. 1430–1443"
+  type: journal
+  year: 2026
+  selected: true
+  links:
+    - name: Paper
+      url: https://doi.org/10.1109/TSG.2025.3633777
+
+- title: "Feature Unlearning: Theoretical Foundations and Practical Applications with Shuffling"
+  authors: "Yue Yang, Jinhao Li, Hao Wang"
+  venue: "Advances in Neural Information Processing Systems (NeurIPS)"
+  venue_short: "NeurIPS 2025"
+  details: "vol. 38"
+  type: conference
+  year: 2025
+  selected: true
+  links:
+    - name: Paper
+      url: https://doi.org/10.52202/085713-0397
+
+- title: "Model Predictive Control for Real-Time Price-Maker Bidding by Grid-Scale Battery Energy Storage Systems"
+  authors: "Xinyue Li, Jinhao Li, Changlong Wang, Hao Wang"
+  venue: "IEEE Power & Energy Society General Meeting (PESGM)"
+  venue_short: "IEEE PESGM 2025"
+  details: "pp. 1–5"
+  type: conference
+  year: 2025
+  selected: false
+  links:
+    - name: Paper
+      url: https://doi.org/10.1109/PESGM52009.2025.11225298
+
+- title: "Investigating State-of-the-Art Planning Strategies for Electric Vehicle Charging Infrastructures in Coupled Transport and Power Networks: A Comprehensive Review"
+  authors: "Jinhao Li, Arlena Chew, Hao Wang"
+  venue: "Progress in Energy"
+  venue_short: "Prog. Energy"
+  details: "vol. 6, no. 4, 042004"
+  type: journal
+  year: 2024
+  selected: true
+  links:
+    - name: Paper
+      url: https://doi.org/10.1088/2516-1083/ad6be1
+
+- title: "Temporal-Aware Deep Reinforcement Learning for Energy Storage Bidding in Energy and Contingency Reserve Markets"
+  authors: "Jinhao Li, Changlong Wang, Yanru Zhang, Hao Wang"
+  venue: "IEEE Transactions on Energy Markets, Policy and Regulation"
+  venue_short: "IEEE TEMPR"
+  details: "vol. 2, no. 3, pp. 392–406"
+  type: journal
+  year: 2024
+  selected: true
+  links:
+    - name: Paper
+      url: https://doi.org/10.1109/TEMPR.2024.3372656
+    - name: arXiv
+      url: https://arxiv.org/abs/2402.19110
+
+- title: "Attentive Convolutional Deep Reinforcement Learning for Optimizing Solar-Storage Systems in Real-Time Electricity Markets"
+  authors: "Jinhao Li, Changlong Wang, Hao Wang"
+  venue: "IEEE Transactions on Industrial Informatics"
+  venue_short: "IEEE TII"
+  details: "vol. 20, no. 5, pp. 7205–7215"
+  type: journal
+  year: 2024
+  selected: true
+  links:
+    - name: Paper
+      url: https://ieeexplore.ieee.org/document/10419053
+
+- title: "Deep Reinforcement Learning for Voltage Control and Renewable Accommodation Using Spatial-Temporal Graph Information"
+  authors: "Jinhao Li, Ruichang Zhang, Hao Wang, Zhi Liu, Hongyang Lai, Yanru Zhang"
+  venue: "IEEE Transactions on Sustainable Energy"
+  venue_short: "IEEE TSTE"
+  details: "vol. 15, no. 1, pp. 249–262"
+  type: journal
+  year: 2024
+  selected: true
+  links:
+    - name: Paper
+      url: https://ieeexplore.ieee.org/document/10143277
+
+- title: "Deep Reinforcement Learning for Wind and Energy Storage Coordination in Wholesale Energy and Ancillary Service Markets"
+  authors: "Jinhao Li, Changlong Wang, Hao Wang"
+  venue: "Energy and AI"
+  venue_short: "Energy & AI"
+  details: "vol. 14"
+  type: journal
+  year: 2023
+  selected: true
+  links:
+    - name: Paper
+      url: https://www.sciencedirect.com/science/article/pii/S2666546823000526
+
+- title: "Optimal Energy Storage Scheduling for Wind Curtailment Reduction and Energy Arbitrage: A Deep Reinforcement Learning Approach"
+  authors: "Jinhao Li, Changlong Wang, Hao Wang"
+  venue: "IEEE Power & Energy Society General Meeting (PESGM)"
+  venue_short: "IEEE PESGM 2023"
+  details: "pp. 1–5"
+  type: conference
+  year: 2023
+  selected: false
+  links:
+    - name: Paper
+      url: https://ieeexplore.ieee.org/document/10253181
+
+- title: "Cross-Entropy-Based Approach to Multi-Objective Electric Vehicle Charging Infrastructure Planning"
+  authors: "Jinhao Li, Yu Hui Yuan, Qiushi Cui, Hao Wang"
+  venue: "IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia)"
+  venue_short: "I&CPS Asia 2023"
+  type: conference
+  year: 2023
+  selected: false
+  links:
+    - name: Paper
+      url: https://doi.org/10.1109/ICPSAsia58343.2023.10294653
+
+- title: "Multi-Agent Deep Reinforcement Learning for Solar-Battery System to Mitigate Solar Curtailment in Real-Time Electricity Market"
+  authors: "Jinhao Li, Changlong Wang, Hao Wang"
+  venue: "ICLR 2023 Workshop on Tackling Climate Change with Machine Learning"
+  venue_short: "ICLR 2023 Workshop"
+  type: workshop
+  year: 2023
+  selected: false
+  links:
+    - name: Paper
+      url: https://www.climatechange.ai/papers/iclr2023/62
+
+- title: "Model-Free Approach to Fair Solar PV Curtailment Using Reinforcement Learning"
+  authors: "Zhuo Wei, Frits de Nijs, Jinhao Li, Hao Wang"
+  venue: "ACM International Conference on Future Energy Systems (e-Energy)"
+  venue_short: "ACM e-Energy 2023"
+  type: conference
+  year: 2023
+  selected: false
+  links:
+    - name: Paper
+      url: https://dl.acm.org/doi/10.1145/3575813.3576871
+
+- title: "Learn to Bid: Deep Reinforcement Learning with Transformer for Energy Storage Bidding in Energy and Contingency Reserve Markets"
+  authors: "Jinhao Li, Changlong Wang, Yanru Zhang, Hao Wang"
+  venue: "NeurIPS 2022 Workshop on Tackling Climate Change with Machine Learning"
+  venue_short: "NeurIPS 2022 Workshop"
+  type: workshop
+  year: 2022
+  selected: false
+  links:
+    - name: Paper
+      url: https://www.climatechange.ai/papers/neurips2022/62
+    - name: Talk
+      url: https://slideslive.com/38993986/learn-to-bid-deep-reinforcement-learning-with-transformer-for-energy-storage-bidding-in-energy-and-contingency-reserve-markets

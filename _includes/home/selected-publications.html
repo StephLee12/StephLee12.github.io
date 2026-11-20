@@ -1,0 +1,11 @@
+{%- comment -%} Entries with selected: true in _data/publications.yml {%- endcomment -%}
+{%- include base_path -%}
+<div id="publications" class="home-section">
+<h2>Selected Publications</h2>
+<p class="section-note">Full list on the <a href="{{ base_path }}/publications/">Publications</a> page and <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>.</p>
+<ol class="pub-list">
+{%- for pub in site.data.publications %}{% if pub.selected %}
+{% include pub-item.html pub=pub %}
+{%- endif %}{% endfor %}
+</ol>
+</div>

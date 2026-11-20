@@ -1,0 +1,13 @@
+{%- comment -%} Edit _data/awards.yml. todo entries are hidden on the live site. {%- endcomment -%}
+{%- assign shown = 0 -%}
+{%- for a in site.data.awards -%}{%- unless a.todo and jekyll.environment == "production" -%}{%- assign shown = shown | plus: 1 -%}{%- endunless -%}{%- endfor -%}
+{%- if shown > 0 %}
+<div id="awards" class="home-section">
+<h2>Awards &amp; Scholarships</h2>
+<ul class="cv-list">
+{%- for a in site.data.awards %}{% unless a.todo and jekyll.environment == "production" %}
+<li{% if a.todo %} class="is-todo"{% endif %}><span class="cv-date">{{ a.date }}</span><span class="cv-text"><strong>{{ a.title }}</strong>{% if a.org %}, {{ a.org }}{% endif %}</span></li>
+{%- endunless %}{% endfor %}
+</ul>
+</div>
+{%- endif %}

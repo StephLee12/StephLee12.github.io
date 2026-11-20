@@ -1,23 +1,22 @@
-# main links links
+# Top navigation bar.
+# Links starting with "/#" jump to a section on the homepage.
+# `section:` (optional) hides the link on the live site until that
+# _data/<section>.yml file has at least one entry without `todo: true`.
 main:
   - title: "Publications"
-    # url: /publications/
-    url: https://scholar.google.com.hk/citations?user=7MruavYAAAAJ&hl=zh-CN
+    url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Awards"
+    url: /#awards
+    section: awards
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
+  - title: "Teaching"
+    url: /#teaching
+    section: teaching
+
+  - title: "Service"
+    url: /#service
+    section: service
+
   - title: "CV"
     url: /files/CV_03262023.pdf
-    
-  # - title: "Guide"
-  #   url: /markdown/

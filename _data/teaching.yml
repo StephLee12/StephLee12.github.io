@@ -1,0 +1,16 @@
+# Teaching, newest first.
+# Entries with `todo: true` are placeholders: shown (highlighted) in a local
+# preview, HIDDEN on the live site. The Teaching section and its menu link
+# appear on the live site once at least one entry has no `todo: true`.
+
+- date: "Sem X, 20XX"
+  role: "TODO: Teaching Associate / Tutor"
+  course: "TODO: FITxxxx — Unit name"
+  org: "Monash University"
+  todo: true
+
+- date: "Sem X, 20XX"
+  role: "TODO: Teaching Associate / Tutor"
+  course: "TODO: FITxxxx — Unit name"
+  org: "Monash University"
+  todo: true

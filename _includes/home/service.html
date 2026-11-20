@@ -1,0 +1,13 @@
+{%- comment -%} Edit _data/service.yml. todo entries are hidden on the live site. {%- endcomment -%}
+{%- assign shown = 0 -%}
+{%- for s in site.data.service -%}{%- unless s.todo and jekyll.environment == "production" -%}{%- assign shown = shown | plus: 1 -%}{%- endunless -%}{%- endfor -%}
+{%- if shown > 0 %}
+<div id="service" class="home-section">
+<h2>Service</h2>
+<ul class="service-list">
+{%- for s in site.data.service %}{% unless s.todo and jekyll.environment == "production" %}
+<li{% if s.todo %} class="is-todo"{% endif %}><strong>{{ s.category }}:</strong> {{ s.items }}</li>
+{%- endunless %}{% endfor %}
+</ul>
+</div>
+{%- endif %}

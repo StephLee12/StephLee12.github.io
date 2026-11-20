@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jinhao's Homepage"
 title_separator          : "-"
 name                     : &name "Jinhao Li"
-description              : &description "PhD Student at Monash University"
+description              : &description "Final-year PhD candidate at Monash University working on machine learning for power and energy systems."
 url                      : https://StephLee12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "StephLee12/StephLee12.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jinhao Li"
   avatar           : "icon_github.png"
-  bio              : "PhD Student at Faculty of IT, Monash University"
+  bio              : "Final-year PhD Candidate, Department of Data Science & AI, Monash University"
   location         : "Melbourne, Australia"
   employer         : "Monash University"
   pubmed           :
-  googlescholar    : "https://scholar.google.com.hk/citations?user=7MruavYAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=7MruavYAAAAJ&hl=en"
   email            : "jinhao.li@monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Melbourne # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

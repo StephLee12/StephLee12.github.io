@@ -1,0 +1,9 @@
+{%- comment -%} Edit _data/education.yml {%- endcomment -%}
+<div id="education" class="home-section">
+<h2>Education</h2>
+<ul class="cv-list">
+{%- for e in site.data.education %}
+<li><span class="cv-date">{{ e.date }}</span><span class="cv-text"><strong>{{ e.degree }}</strong><br>{{ e.org }}{% if e.note %}<br><span class="cv-note">{{ e.note }}</span>{% endif %}</span></li>
+{%- endfor %}
+</ul>
+</div>
